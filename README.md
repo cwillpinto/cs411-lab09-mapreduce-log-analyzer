@@ -7,8 +7,8 @@ Read `Lab_09_MapReduce_Log_Analyzer.md` for the 100-point assignment and its Oct
 If the instructor starter is a template, select **Use this template** on GitHub, create a repository under your own account, and clone it locally. For a direct clone, create an empty repository under your account first:
 
 ```sh
-git clone <instructor-starter-url>
-cd <cloned-directory>
+git clone https://github.com/cwillpinto/cs411-lab09-mapreduce-log-analyzer.git
+cd cs411-lab09-mapreduce-log-analyzer
 git remote rename origin upstream
 git remote add origin <your-repository-url>
 git remote -v

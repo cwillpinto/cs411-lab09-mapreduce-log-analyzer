@@ -29,7 +29,7 @@ Marketing just ran a flash sale, and the CDN dumped a 1GB `access.log` in your l
 
 ### 🚀 Submission
 1. `Lab9_Theory.pdf` (or `.md`)
-2. Your student-owned GitHub repository URL and full commit SHA in Blackboard Ultra. The repository must contain your completed `mapper.py` and `reducer.py`; do not upload separate code files or push to the instructor starter.
+2. Your student-owned GitHub repository URL and full commit SHA in Blackboard Ultra. Use the public instructor template at `https://github.com/cwillpinto/cs411-lab09-mapreduce-log-analyzer` as the starter. Your repository must contain your completed `mapper.py` and `reducer.py`; do not upload separate code files or push to the instructor starter.
 3. The **Success Token** (`MAPREDUCE_SHUFFLE_VERIFIED`) output from `check_logs.py`, with terminal output or screenshot.
 
 See `README.md` for template and safe direct-clone instructions. The due date is October 26, 2026; use the Blackboard assignment for the verified deadline time.
