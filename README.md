@@ -1,6 +1,6 @@
 # CS411 Lab 9 — MapReduce Log Analyzer
 
-Read `Lab_09_MapReduce_Log_Analyzer.md` for the 100-point assignment and its October 26, 2026 due date. Check Blackboard Ultra for the exact deadline time. Python 3.11 or newer and the standard library are required; no third-party packages are needed.
+Read `Lab_09_MapReduce_Log_Analyzer.md` for the 100-point assignment (20 points of applied checks and 80 points of code and verification) and its Wednesday, October 28, 2026, 11:59 PM America/Chicago due time. The live Blackboard Ultra setting still needs instructor verification. Python 3.11 or newer and the standard library are required; no third-party packages are needed.
 
 ## Student workflow
 
@@ -30,4 +30,4 @@ Expected token on a matching sample: `MAPREDUCE_SHUFFLE_VERIFIED`. The starter i
 
 ## Submission
 
-Submit your student-owned repository URL and full commit SHA, `Lab9_Theory.pdf` or `.md` with concise calculations and case explanations, and terminal output or a screenshot showing the success token. Your completed code lives in your repository; separate code-file uploads are not required. Disclose AI tool use as required by the syllabus.
+Submit your student-owned repository URL and full commit SHA, `Lab9_Theory.pdf` or `.md` with the three short applied checks, and terminal output or a screenshot showing the success token. Your completed code lives in your repository; separate code-file uploads are not required. Disclose AI tool use as required by the syllabus.
